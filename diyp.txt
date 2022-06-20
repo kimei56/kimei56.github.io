@@ -1,0 +1,482 @@
+新闻频道,#genre#
+凤凰卫视资讯台,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视中文台,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰卫视资讯台,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
+凤凰卫视中文台,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+凤凰卫视电影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+凤凰资讯HD,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
+凤凰资讯HD,http://59.44.10.113:9901/tsfile/live/1078_1.m3u8
+凤凰资讯HD,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯HD,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰中文HD,http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
+凤凰中文HD,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文HD,http://50.7.218.42:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
+凤凰香港HD,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+凤凰香港HD,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰香港HD,http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+凤凰资讯HD,http://live.clg.kim/tv/fhzx.m3u8
+凤凰中文HD,http://live.clg.kim/tv/fhzw.m3u8
+凤凰中文HD,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯HD,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
+凤凰中文HD,http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
+凤凰香港HD,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+凤凰中文HD,http://59.44.10.113:9901/tsfile/live/1079_1.m3u8
+凤凰资讯HD,http://59.44.10.113:9901/tsfile/live/1078_1.m3u8
+凤凰香港HD,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
+俄罗斯中文台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+半岛电视,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛电视,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8  
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/02.m3u8
+上海新闻综合,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海新闻综合,http://183.207.255.190/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海新闻综合,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8  
+新视觉,http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+中天新聞,http://60.251.59.180:8543/xoxo.m3u8
+中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+中天新聞,http://60.251.59.180:8543/xoxo.m3u8
+中天新闻,http://60.249.146.250:8595/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+中天新闻,http://60.249.146.250:8595/playlist.m3u8
+华视新闻,http://60.249.146.250:8592/playlist.m3u8
+华视新闻,http://60.249.146.250:8592/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+年代新闻,http://60.249.146.250:8593/playlist.m3u8
+年代新闻,http://60.249.146.250:8519/http/60.251.39.91:8081/hls/66/808/ch22.m3u8
+年代新闻,http://60.249.146.250:8593/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+民視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+三立財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹电视新闻台,http://stream.nexttv.com.tw/n001/playlist.m3u8
+Al Jazeera EN,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+上海新闻综合,http://player.521fanli.cn/1691/sh/bstqqm3u8.php?id=xwzhhd&rate=fhd
+东方电影,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+劲爆体育,http://player.521fanli.cn/1691/sh/bstqqm3u8.php?id=jbtyhd&rate=fhd
+五星体育,http://player.521fanli.cn/1691/sh/bstqqm3u8.php?id=ssty&rate=fhd
+纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+BestTv,http://player.521fanli.cn/1691/sh/bstqqm3u8.php?id=hdnba5&rate=fhd
+BestTv,http://player.521fanli.cn/1691/sh/bstqqm3u8.php?id=hdnba6&rate=fhd
+上海频道,#genre#
+上海新闻综合,http://111.40.196.9/PLTV/88888888/224/3221225499/index.m3u8
+上海新闻综合,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海新闻综合,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
+五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+五星体育http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+东方影视,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
+上海都市,http://58.34.204.67:9901/tsfile/live/1017_1.m3u8
+第一财经,http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
+上海ICS,http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
+新视觉,http://58.34.204.67:9901/tsfile/live/1011_1.m3u8
+欢笑剧场4K,http://58.34.204.67:9901/tsfile/live/1012_1.m3u8
+纪实人文,http://58.34.204.67:9901/tsfile/live/1013_1.m3u8
+生活时尚,http://58.34.204.67:9901/tsfile/live/1020_1.m3u8
+全纪实,http://58.34.204.67:9901/tsfile/live/1010_1.m3u8
+动作电影,http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
+都市剧场,http://58.34.204.67:9901/tsfile/live/1008_1.m3u8
+动漫秀场,http://58.34.204.67:9901/tsfile/live/1009_1.m3u8
+PPTV体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
+纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+纪实人文,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+上海全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海都市,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海全纪实,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+上海ICS,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+上海ICS,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+第一财经,http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+第一财经,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+极速汽车,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+动漫秀场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+欢笑剧场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+欢笑剧场,http://shbu4k.live.bestvcdn.com:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+都市剧场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+足球魅力,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+足球魅力,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+生活时尚,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+生活时尚,http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8
+游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+游戏风云,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+哈哈炫动,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
+哈哈炫动,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xdkt/1300000/mnf.m3u8
+哈哈炫动,http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8
+东方财经,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
+七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+七彩戏剧,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qcxj/1300000/mnf.m3u8
+金鹰卡通,http://183.207.255.188/live/program/live/jykt/1300000/mnf.m3u8
+金鹰卡通,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jykt/1300000/mnf.m3u8
+嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8
+嘉佳卡通,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jjkt/1300000/mnf.m3u8
+上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8abd3be7701993ee8
+安徽频道,#genre#
+凤凰资讯台,http://221.179.136.138:443/PLTV/88888888/224/3221225949/1.m3u8
+凤凰资讯台,http://221.179.136.139:443/PLTV/88888888/224/3221225949/1.m3u8
+凤凰中文台,http://221.179.136.150:443/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文台,http://221.179.136.151:443/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文台,http://221.179.136.152:443/PLTV/88888888/224/3221225948/1.m3u8
+凤凰中文台,http://221.179.136.153:443/PLTV/88888888/224/3221225948/1.m3u8
+安徽卫视HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+安徽经济生活,http://live1.ahwanyun.cn/wylive/427c4278-8044-4305-a83c-d8102148e3cc.m3u8
+安徽经济生活,http://sheenic.ueuo.com/ahhdtv.php?id=12
+安徽经济高清,http://skycw.vicp.net:4022/udp/238.1.79.44:4464
+安徽影视高清,http://skycw.vicp.net:4022/udp/238.1.79.42:4448
+安徽公共高清,http://skycw.vicp.net:4022/udp/238.1.79.43:4456
+安徽综艺高清,http://skycw.vicp.net:4022/udp/238.1.79.41:4440
+安徽农业高清,http://skycw.vicp.net:4022/udp/238.1.79.40:4432
+海豚影视高清,http://skycw.vicp.net:4022/udp/238.1.79.34:4384
+海豚健康高清,http://skycw.vicp.net:4022/udp/238.1.79.33:4376 
+海豚少儿高清,http://skycw.vicp.net:4022/udp/238.1.79.32:4368 
+海豚生活高清,http://skycw.vicp.net:4022/udp/238.1.79.50:4512 
+安徽综艺体育,http://live1.ahwanyun.cn/wylive/ccbf08e9-40a1-43ac-b0ab-89b32d90c9f8.m3u8
+安徽综艺体育,http://sheenic.ueuo.com/ahhdtv.php?id=17
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+安徽影视,http://live1.ahwanyun.cn/wylive/9f8f237e-586a-4e53-ae57-8abc222ff0f1.m3u8
+安徽影视,http://sheenic.ueuo.com/ahhdtv.php?id=13
+安徽农业科技,http://sheenic.ueuo.com/ahhdtv.php?id=14
+安徽公共,http://sheenic.ueuo.com/ahhdtv.php?id=16
+安徽人物频道,http://sheenic.ueuo.com/ahhdtv.php?id=19
+安徽国际,http://sheenic.ueuo.com/ahhdtv.php?id=18
+合肥新闻,https://hylive.hfbtv.com/lsdream/pdq062k/1000/live.m3u8
+合肥生活,https://hylive.hfbtv.com/lsdream/5osSo9R/1000/live.m3u8
+合肥故事休闲,https://hylive.hfbtv.com/lsdream/q66ojce/1000/live.m3u8
+合肥财经,https://hylive.hfbtv.com/lsdream/FRTSshY/1000/live.m3u8
+合肥教育法制,https://hylive.hfbtv.com/lsdream/5EfK6HI/1000/live.m3u8
+合肥公共,https://hylive.hfbtv.com/lsdream/pytL5lE/1000/live.m3u8
+合肥新闻广播,https://hylive.hfbtv.com/lsdream/eI5rRD8/1000/live.m3u8
+合肥文艺广播,https://hylive.hfbtv.com/lsdream/3kJdo0U/1000/live.m3u8
+合肥交通广播,https://hylive.hfbtv.com/lsdream/4Adae8P/1000/live.m3u8
+合肥巢湖之声,https://hylive.hfbtv.com/lsdream/1KIhgn6/1000/live.m3u8
+合肥故事广播,https://hylive.hfbtv.com/lsdream/CAgJZs0/1000/live.m3u8
+国内体育,#genre#
+CCTV5HD,http://183.251.61.207/PLTV/88888888/224/3221227170/index.m3u8
+CCTV5+HD,http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
+五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+五星体育http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://58.34.204.67:9901/tsfile/live/1011_1.m3u8
+南方卫视,http://183.63.15.42:9901/tsfile/live/1012_1.m3u8
+广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
+江苏体育休闲,https://litchiapp-hls.jstv.com/lizhiapp/jsty.m3u8
+博斯运动1,http://60.251.59.180:8503/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+博斯运动2,http://60.251.59.180:8504/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
+ELEVEN SPORTS 1,http://60.251.59.180:8505/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+ELEVEN SPORTS 2,http://60.251.59.180:8506/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+ASTRO SUPERSPORTS 1,http://203.154.243.89:21201/nakhon
+ASTRO SUPERSPORTS 1,http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
+ASTRO SUPERSPORTS 2,http://203.154.243.89:21202/nakhon
+ASTRO SUPERSPORTS 2,http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
+ASTRO SUPERSPORTS 3,http://203.154.243.89:21203/nakhon
+ASTRO SUPERSPORTS 3,http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
+ASTRO SUPERSPORTS 4,http://203.154.243.89:21204/nakhon
+ASTRO SUPERSPORTS 4,http://axcestv.vip:8080/live/freeview/axcestv/791.ts
+海外测试,#genre#
+Star Sports 1 HD,http://103.55.144.46:80/hls/stersports1hd.m3u8
+Free Star Sports 1 Hindi HD,http://20.207.205.210:8081/live/hindi/playlist.m3u8
+Free Star Sports 2 HD,http://103.55.144.46:80/hls/starsports2.m3u8
+Super Sport Cricket,http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
+EUROSPORT 1 HD,http://194.58.42.152:8000/play/eurosport1hd/index.m3u8
+EUROSPORT 2 HD,http://194.58.42.152:8000/play/eurosport2hd/index.m3u8
+Setanta Sports 1 HD,http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
+Setanta Sports 2 HD,http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
+Sony Ten 1,http://103.55.144.46:80/hls/sonyten1.m3u8
+Sony Ten 2,http://103.55.144.46:80/hls/sonyten2.m3u8
+Sony Ten 3,http://103.55.144.46:80/hls/sonyten3.m3u8
+Star Sports 1 HD,http://103.55.144.46:80/hls/stersports1hd.m3u8
+Star Sports 2 HD,http://103.55.144.46:80/hls/starsports2.m3u8
+Star Sports Select 1 HD,http://103.55.144.46:80/hls/Star_Sport_Select1HD.m3u8
+Star Sports Select 2 HD,http://103.55.144.46:80/hls/select2.m3u8
+Euro Sports HD,http://103.55.144.46:80/hls/euro.m3u8
+T Sports HD,http://103.55.144.46:80/hls/t-sports.m3u8
+Bindaass,http://103.55.144.46:80/hls/bindass.m3u8
+Colors HD,http://103.55.144.46:80/hls/colore-tv-hd.m3u8
+Colors Cineplex,http://103.55.144.46:80/hls/colorscineplex.m3u8
+Sony Max,http://103.55.144.46:80/hls/sonymax.m3u8
+Sony Max HD,http://103.55.144.46:80/hls/sony-maxhd.m3u8
+Sony Entertainment,http://103.55.144.46:80/hls/sonyen.m3u8
+Star Gold HD,http://103.55.144.46:80/hls/stargold.m3u8
+Star Gold 2 HD,http://103.55.144.46:80/hls/stargold2hd.m3u8
+Star Plus HD,http://103.55.144.46:80/hls/starplus.m3u8
+UTV Movies,http://103.55.144.46:80/hls/utv.m3u8
+UTV Action,http://103.55.144.46:80/hls/utvaction.m3u8
+Zee Cinema HD,http://103.55.144.46:80/hls/zeecinemahd.m3u8
+Zee TV HD,http://103.55.144.46:80/hls/zeetv.m3u8
+海外体育,#genre#
+SKY SPORTS F1 UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7342/index.m3u8
+SKY SPORTS PREMIER UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7335/index.m3u8
+SKY SPORTS FOOTBALL UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7336/index.m3u8
+SKY SPORTS MAIN EVENT UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7337/index.m3u8
+SKY SPORTS ARENA UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7338/index.m3u8
+SKY SPORTS MIX UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7339/index.m3u8
+SKY Sports Action HD UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7340/index.m3u8
+SKY SPORTS RACING UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7341/index.m3u8
+SKY SPORTS CRICKET UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7343/index.m3u8
+SKY SPORTS GOLF UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7344/index.m3u8
+Arena Sport 1 HD HR,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7329/index.m3u8
+Arena Sport 2 HD HR,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7330/index.m3u8
+Arena Sport 3 HD HR,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7331/index.m3u8
+Arena Sport 4 HD HR,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7332/index.m3u8
+Arena Sport 5 HD HR,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7333/index.m3u8
+Arena Sport 6 HD HR,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7334/index.m3u8
+Sky Sports Action FHD UK,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7345/index.m3u8
+Sky Sport News HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/2477/index.m3u8
+Sky Sport 1 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/2478/index.m3u8
+Sky Sport 2 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/2479/index.m3u8
+Sky Sport Bundesliga 1 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/2480/index.m3u8
+Sky Sport Austria 1 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/2492/index.m3u8
+Sky Sport Bundesliga 2 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7234/index.m3u8
+Sky Sport Bundesliga 3 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7235/index.m3u8
+Sky Sport Bundesliga 4 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7236/index.m3u8
+Sky Sport Bundesliga 3 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7237/index.m3u8
+Sky Sport Bundesliga 6 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7238/index.m3u8
+Sky Sport Bundesliga 7 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7239/index.m3u8
+Sky Sport Bundesliga 8 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7240/index.m3u8
+Sky Sport Bundesliga 9 HD DE,http://nzgksbj3.akciatv.ru/iptv/RCHGZA3YE4MVAQ/7241/index.m3u8
+咪咕频道,#genre#
+CCTV1,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
+CCTV1,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
+CCTV2,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+CCTV2,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+CCTV3,http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
+CCTV3,http://117.148.179.140/PLTV/88888888/224/3221231528/index.m3u8
+CCTV4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+CCTV4,http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+CCTV4,http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
+CCTV5,http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8
+CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CCTV5+,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
+CCTV6,http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
+CCTV7,http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
+CCTV8,http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
+CCTV9,http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
+CCTV10,http://117.148.179.164/PLTV/88888888/224/3221232492/index.m3u8
+CCTV10,http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
+CCTV11,http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+CCTV12,http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV15,http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
+CCTV17,http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
+第一剧场,http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8
+风云剧场,http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
+风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
+世界地理,http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
+湖南卫视,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
+湖南卫视,http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
+湖南卫视,http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
+江苏卫视,http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
+浙江卫视,http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
+浙江卫视,http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8
+东方卫视,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
+东方卫视,http://117.148.179.167/PLTV/88888888/224/3221231450/index.m3u8
+广东卫视,http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
+广东卫视,http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
+北京卫视,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+天津卫视,http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
+山东卫视,http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
+湖北卫视,http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
+湖北卫视,http://117.148.179.134/PLTV/88888888/224/3221231523/index.m3u8
+黑龙江卫视,http://117.148.179.141/PLTV/88888888/224/3221231967/index.m3u8
+黑龙江卫视,http://117.148.179.162/PLTV/88888888/224/3221231520/index.m3u8
+安徽卫视,http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
+辽宁卫视,http://117.148.179.152/PLTV/88888888/224/3221231802/index.m3u8
+江西卫视,http://117.148.179.141/PLTV/88888888/224/3221231964/index.m3u8
+江西卫视,http://117.148.179.157/PLTV/88888888/224/3221231511/index.m3u8
+四川卫视,http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
+四川卫视,http://117.148.179.176/PLTV/88888888/224/3221231517/index.m3u8
+河北卫视,http://117.148.179.179/PLTV/88888888/224/3221231411/index.m3u8
+贵州卫视,http://117.148.179.160/PLTV/88888888/224/3221231676/index.m3u8
+南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8
+山西卫视,http://117.148.179.169/PLTV/88888888/224/3221231444/index.m3u8
+东南卫视,http://117.148.179.160/PLTV/88888888/224/3221231414/index.m3u8
+青海卫视,http://117.148.179.151/PLTV/88888888/224/3221231435/index.m3u8
+云南卫视,http://117.148.179.141/PLTV/88888888/224/3221231499/index.m3u8
+河南卫视,http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8
+陕西卫视,http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8
+吉林卫视,http://117.148.179.164/PLTV/88888888/224/3221231472/index.m3u8
+广西卫视,http://117.148.179.164/PLTV/88888888/224/3221231600/index.m3u8
+西藏卫视,http://117.148.179.162/PLTV/88888888/224/3221231558/index.m3u8
+内蒙古卫视,http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8
+宁夏卫视,http://117.148.179.160/PLTV/88888888/224/3221231441/index.m3u8
+甘肃卫视,http://117.148.179.158/PLTV/88888888/224/3221231393/index.m3u8
+重庆卫视,http://117.148.179.155/PLTV/88888888/224/3221231508/index.m3u8
+新疆卫视,http://117.148.179.183/PLTV/88888888/224/3221231451/index.m3u8
+兵团卫视,http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8
+厦门卫视,http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
+青岛移动,#genre#
+CCTV1-综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000311/index.m3u8?IASHttpSessionId=OTT
+CCTV2-财经,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000317/index.m3u8?IASHttpSessionId=OTT
+CCTV3-综艺,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000359/index.m3u8?IASHttpSessionId=OTT
+CCTV4-中文国际,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000320/index.m3u8?IASHttpSessionId=OTT
+CCTV5-体育,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000360/index.m3u8?IASHttpSessionId=OTT
+CCTV5+体育赛事,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000316/index.m3u8?IASHttpSessionId=OTT
+CCTV6-电影,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000361/index.m3u8?IASHttpSessionId=OTT
+CCTV7-国防军事,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000318/index.m3u8?IASHttpSessionId=OTT
+CCTV8-电视剧,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000362/index.m3u8?IASHttpSessionId=OTT
+CCTV9-纪录,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000319/index.m3u8?IASHttpSessionId=OTT
+CCTV10-科教,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000321/index.m3u8?IASHttpSessionId=OTT
+CCTV11-戏曲,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000344/index.m3u8?IASHttpSessionId=OTT
+CCTV12-社会与法,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000322/index.m3u8?IASHttpSessionId=OTT
+CCTV13-新闻,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000345/index.m3u8?IASHttpSessionId=OTT
+CCTV14-少儿,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000323/index.m3u8?IASHttpSessionId=OTT
+CCTV15-音乐,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000346/index.m3u8?IASHttpSessionId=OTT
+CCTV17-农业农村,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000303/index.m3u8?IASHttpSessionId=OTT
+CCTV4-国际欧洲,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000350/index.m3u8?IASHttpSessionId=OTT
+CCTV4-中文国际美洲,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000351/index.m3u8?IASHttpSessionId=OTT
+CGTN 记录,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000353/index.m3u8?IASHttpSessionId=OTT
+CGTN,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000352/index.m3u8?IASHttpSessionId=OTT
+CGTN ESPANOL,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000354/index.m3u8?IASHttpSessionId=OTT
+CGTN FRANCAIS,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000355/index.m3u8?IASHttpSessionId=OTT
+CGTN 阿拉伯语,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000356/index.m3u8?IASHttpSessionId=OTT
+CGTN PYCCKNN,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000357/index.m3u8?IASHttpSessionId=OTT
+CETV1,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000076/index.m3u8?IASHttpSessionId=OTT
+CETV2,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000077/index.m3u8?IASHttpSessionId=OTT
+CETV4,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000070/index.m3u8?IASHttpSessionId=OTT
+农林卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000072/index.m3u8?IASHttpSessionId=OTT
+中国交通,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000073/index.m3u8?IASHttpSessionId=OTT
+北京卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000302/index.m3u8?IASHttpSessionId=OTT
+浙江卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000305/index.m3u8?IASHttpSessionId=OTT
+江苏卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000304/index.m3u8?IASHttpSessionId=OTT
+东南卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000310/index.m3u8?IASHttpSessionId=OTT
+广东卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000307/index.m3u8?IASHttpSessionId=OTT
+深圳卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000308/index.m3u8?IASHttpSessionId=OTT
+东方卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000309/index.m3u8?IASHttpSessionId=OTT
+河北卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000330/index.m3u8?IASHttpSessionId=OTT
+湖北卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000325/index.m3u8?IASHttpSessionId=OTT
+湖南卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000324/index.m3u8?IASHttpSessionId=OTT
+辽宁卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000326/index.m3u8?IASHttpSessionId=OTT
+安徽卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000328/index.m3u8?IASHttpSessionId=OTT
+天津卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000327/index.m3u8?IASHttpSessionId=OTT
+贵州卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000329/index.m3u8?IASHttpSessionId=OTT
+纪实人文,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000333/index.m3u8?IASHttpSessionId=OTT
+江西卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000335/index.m3u8?IASHttpSessionId=OTT
+金鹰纪实,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000334/index.m3u8?IASHttpSessionId=OTT
+重庆卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000341/index.m3u8?IASHttpSessionId=OTT
+甘肃卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000349/index.m3u8?IASHttpSessionId=OTT
+四川卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000348/index.m3u8?IASHttpSessionId=OTT
+海南卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000347/index.m3u8?IASHttpSessionId=OTT
+河南卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000358/index.m3u8?IASHttpSessionId=OTT
+吉林卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000363/index.m3u8?IASHttpSessionId=OTT
+黑龙江卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000027/index.m3u8?IASHttpSessionId=OTT
+东南卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000028/index.m3u8?IASHttpSessionId=OTT
+陕西卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000029/index.m3u8?IASHttpSessionId=OTT
+山西卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000032/index.m3u8?IASHttpSessionId=OTT
+广西卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000038/index.m3u8?IASHttpSessionId=OTT
+云南卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000039/index.m3u8?IASHttpSessionId=OTT
+青海卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000042/index.m3u8?IASHttpSessionId=OTT
+内蒙古卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000040/index.m3u8?IASHttpSessionId=OTT
+宁夏卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000043/index.m3u8?IASHttpSessionId=OTT
+西藏卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000045/index.m3u8?IASHttpSessionId=OTT
+新疆卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000044/index.m3u8?IASHttpSessionId=OTT
+济南少儿,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000067/index.m3u8?IASHttpSessionId=OTT
+济南商务,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000066/index.m3u8?IASHttpSessionId=OTT
+兵团卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000071/index.m3u8?IASHttpSessionId=OTT
+厦门卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000075/index.m3u8?IASHttpSessionId=OTT
+三沙卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000078/index.m3u8?IASHttpSessionId=OTT
+山东卫视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000301/index.m3u8?IASHttpSessionId=OTT
+山东齐鲁,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000313/index.m3u8?IASHttpSessionId=OTT
+山东新闻,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000314/index.m3u8?IASHttpSessionId=OTT
+山东体育,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000315/index.m3u8?IASHttpSessionId=OTT
+山东教育,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000331/index.m3u8?IASHttpSessionId=OTT
+山东综艺,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000338/index.m3u8?IASHttpSessionId=OTT
+山东少儿,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000340/index.m3u8?IASHttpSessionId=OTT
+山东农科,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000339/index.m3u8?IASHttpSessionId=OTT
+山东文旅,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000337/index.m3u8?IASHttpSessionId=OTT
+山东生活,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000336/index.m3u8?IASHttpSessionId=OTT
+德州经济生活,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000207/index.m3u8?IASHttpSessionId=OTT
+海看宠物,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000202/index.m3u8?IASHttpSessionId=OTT
+海看教育,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000204/index.m3u8?IASHttpSessionId=OTT
+德州新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000206/index.m3u8?IASHttpSessionId=OTT
+潍坊-1,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000215/index.m3u8?IASHttpSessionId=OTT
+潍坊-2,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000216/index.m3u8?IASHttpSessionId=OTT
+日照新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000262/index.m3u8?IASHttpSessionId=OTT
+日照科教,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000263/index.m3u8?IASHttpSessionId=OTT
+威海新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000274/index.m3u8?IASHttpSessionId=OTT
+威海公共,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000275/index.m3u8?IASHttpSessionId=OTT
+烟台经济科教,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000282/index.m3u8?IASHttpSessionId=OTT
+烟台公共,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000281/index.m3u8?IASHttpSessionId=OTT
+烟台新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8?IASHttpSessionId=OTT
+烟台影视,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000283/index.m3u8?IASHttpSessionId=OTT
+海看健康,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000401/index.m3u8?IASHttpSessionId=OTT
+海看剧场,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000403/index.m3u8?IASHttpSessionId=OTT
+海看大片,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000407/index.m3u8?IASHttpSessionId=OTT
+海看少儿,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000402/index.m3u8?IASHttpSessionId=OTT
+海看热播,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000405/index.m3u8?IASHttpSessionId=OTT
+海看电竞,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000408/index.m3u8?IASHttpSessionId=OTT
+青岛-1,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8?IASHttpSessionId=OTT
+青岛-3,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8?IASHttpSessionId=OTT
+青岛-4,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000503/index.m3u8?IASHttpSessionId=OTT
+青岛-5,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8?IASHttpSessionId=OTT
+青岛-6,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8?IASHttpSessionId=OTT
+青岛-2,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000501/index.m3u8?IASHttpSessionId=OTT
+财富天下,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000607/index.m3u8?IASHttpSessionId=OTT
+未知电影,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000621/index.m3u8?IASHttpSessionId=OTT
+都市剧场,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000630/index.m3u8?IASHttpSessionId=OTT
+未知,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000639/index.m3u8?IASHttpSessionId=OTT
+优优宝贝,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000641/index.m3u8?IASHttpSessionId=OTT
+中华特产,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000642/index.m3u8?IASHttpSessionId=OTT
+环球旅游,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000643/index.m3u8?IASHttpSessionId=OTT
+生态环境,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000644/index.m3u8?IASHttpSessionId=OTT
+车迷频道,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000645/index.m3u8?IASHttpSessionId=OTT
+快乐垂钓,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000648/index.m3u8?IASHttpSessionId=OTT
+茶频道,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000649/index.m3u8?IASHttpSessionId=OTT
+书画频道,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000651/index.m3u8?IASHttpSessionId=OTT
+靓装频道,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000653/index.m3u8?IASHttpSessionId=OTT
+武术世界,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000657/index.m3u8?IASHttpSessionId=OTT
+梨园频道,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000656/index.m3u8?IASHttpSessionId=OTT
+文物宝库,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000658/index.m3u8?IASHttpSessionId=OTT
+家庭理财,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000654/index.m3u8?IASHttpSessionId=OTT
+寿光新闻,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001000/index.m3u8?IASHttpSessionId=OTT
+诸城新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001004/index.m3u8?IASHttpSessionId=OTT
+莒县融媒,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001014/index.m3u8?IASHttpSessionId=OTT
+文登-1,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001017/index.m3u8?IASHttpSessionId=OTT
+奎文综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001027/index.m3u8?IASHttpSessionId=OTT
+昌乐新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001033/index.m3u8?IASHttpSessionId=OTT
+新泰综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001029/index.m3u8?IASHttpSessionId=OTT
+青州综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001042/index.m3u8?IASHttpSessionId=OTT
+岚山综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001044/index.m3u8?IASHttpSessionId=OTT
+乳山-1,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001049/index.m3u8?IASHttpSessionId=OTT
+寿光蔬菜,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001045/index.m3u8?IASHttpSessionId=OTT
+青州文化旅游,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001057/index.m3u8?IASHttpSessionId=OTT
+平度新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001054/index.m3u8?IASHttpSessionId=OTT
+荣成综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001053/index.m3u8?IASHttpSessionId=OTT
+栖霞综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001055/index.m3u8?IASHttpSessionId=OTT
+莱西综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001067/index.m3u8?IASHttpSessionId=OTT
+五莲新闻 综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001068/index.m3u8?IASHttpSessionId=OTT
+胶州新闻,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001074/index.m3u8?IASHttpSessionId=OTT
+牟平综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001076/index.m3u8?IASHttpSessionId=OTT
+牟平生活,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001077/index.m3u8?IASHttpSessionId=OTT
+即墨新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001080/index.m3u8?IASHttpSessionId=OTT
+昌邑新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001083/index.m3u8?IASHttpSessionId=OTT
+临朐新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001085/index.m3u8?IASHttpSessionId=OTT
+黄岛新闻,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001086/index.m3u8?IASHttpSessionId=OTT
+海阳综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001091/index.m3u8?IASHttpSessionId=OTT
+长岛综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001090/index.m3u8?IASHttpSessionId=OTT
+高密新闻综合,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001089/index.m3u8?IASHttpSessionId=OTT
+蓬莱新闻,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001088/index.m3u8?IASHttpSessionId=OTT
+黄岛生活,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001087/index.m3u8?IASHttpSessionId=OTT
+海阳综艺,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001092/index.m3u8?IASHttpSessionId=OTT
+日照公共,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001100/index.m3u8?IASHttpSessionId=OTT
